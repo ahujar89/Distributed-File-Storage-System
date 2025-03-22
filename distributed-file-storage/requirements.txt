@@ -1,0 +1,7 @@
+cryptography
+Django
+djangorestframework
+django-cors-headers
+boto3
+requests
+python-dotenv
